@@ -11,7 +11,7 @@
    author="Endymion"
    id="b03f0bec97a2924e5b3b5f04"
    language="Lua"
-   purpose="Practive automatic skills and spellup spells."
+   purpose="Practice automatic skills and spellup spells."
    date_written="2018-05-29 16:43:56"
    requires="4.30"
    version="1.0"
